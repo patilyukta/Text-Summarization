@@ -1,5 +1,7 @@
 # Text-Summarization
 
+Text Summarization using Python NLTK Library and Flask.
+
 # Home Page
 
 ![home](https://user-images.githubusercontent.com/84625904/119451940-6cc95080-bd53-11eb-935e-9dc405503199.PNG)
