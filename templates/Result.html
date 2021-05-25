@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Text Summarization</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1><b>TEXT SUMMARIZATION</b></h1>
+    </header>
+    <div class="container">
+        <h3>Output:</h3>
+        <h4>Summary: </h4>
+        <p> {{ summary }} </p>
+
+        <a href="/">
+            <button type="submit" class="btn-cls">Back to Home Page</button>
+        </a>
+    </div>
+</body>
+
+</html>
